@@ -12,7 +12,7 @@ You can walk around the city and listen to ambient noises of this eclectic city!
 * Download the 3D model(s) from the Models folder in the project.
 * Go to echo3D console and click ["Add to Cloud"](https://docs.echo3d.co/quickstart/add-a-3d-model) and upload the models.
 * Open the "SampleScene" scene.
-* [Set the API keys](https://docs.echo3d.co/quickstart/access-the-console) for the complimentary asset on the objects in the Hierarchy using the Inspector: Gatling, Sword, Revolver.
+* [Set the API keys](https://docs.echo3d.co/quickstart/access-the-console)
 <br>![APIKeyandEntryId](https://user-images.githubusercontent.com/99516371/233753895-f131b565-3a5a-4e18-862f-a6017b29f315.png)<br>
 ![NEWEnterAPIKey](https://user-images.githubusercontent.com/99516371/233753903-247c4b30-7b19-4810-9d39-ecfbfe161791.gif)
 * If you have your secret key enabled, [add the security key](https://docs.echo3d.co/web-console/deliver-pages/security-page) for each project to the Global.cs script as well.
