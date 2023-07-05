@@ -1,6 +1,6 @@
 # City-SpacialAudio-Demo
 
-You can walk around the city and listen to ambient noises of this eclectic city! These are pictures of that city.
+You can walk around the city and listen to ambient noises of this eclectic city! There are pictures of that city and a video tour below.
 
 ## Setup
 * Built with [Unity 2021.2.7](https://unity3d.com/get-unity/download/archive) (Note: The echo3D Unity SDK is supported in 2020.3.25 and higher.).
