@@ -1,6 +1,6 @@
-# City-SpacialAudio-Demo
+# City-SpatialAudio-Demo
 
-You can walk around the city and listen to ambient noises of this eclectic city! There are pictures of that city and a video tour below.
+You can walk around the city and listen to the ambient noises of this eclectic city! There are pictures of that city and a video tour below.
 
 ## Setup
 * [Register](https://www.echo3d.com/signup?utm_term={keyword}&utm_campaign=weapons_tutorial&utm_source=medium&utm_medium=blog) for FREE at echo3D.
@@ -15,7 +15,7 @@ You can walk around the city and listen to ambient noises of this eclectic city!
 <br>![APIKeyandEntryId](https://user-images.githubusercontent.com/99516371/233753895-f131b565-3a5a-4e18-862f-a6017b29f315.png)<br>
 ![NEWEnterAPIKey](https://user-images.githubusercontent.com/99516371/233753903-247c4b30-7b19-4810-9d39-ecfbfe161791.gif)
 * If you have your secret key enabled, [add the security key](https://docs.echo3d.co/web-console/deliver-pages/security-page) for each project to the Global.cs script as well.
-* (Recommended) Preview and edit the echo3D asset in real time.
+* (Recommended) Preview and edit the echo3D asset in real-time.
 To move, resize or edit the parent object for assets in Scene view, check the boxes for [“Editor Preview”](https://docs.echo3d.com/unity/hologram-script-settings#experimental-editor-preview) and [“Ignore Model Transforms”](https://docs.echo3d.com/unity/hologram-script-settings#ignore-model-transforms) on the echo3D script in Inspector. 
 To enable this, click Echo3D > Load Editor Holograms in your Unity toolbar. 
 
